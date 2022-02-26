@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The fierce and cruel battaile fought by the three Kings in Barbarie, nere to the cittie of Maroques, the 25. of Aprill last. 1607</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1607</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A72379</idno>
+            <idno type="STC">STC 1376.5</idno>
+            <idno type="STC">ESTC S123077</idno>
+            <idno type="EEBO-CITATION">99898314</idno>
+            <idno type="PROQUEST">99898314</idno>
+            <idno type="VID">173477</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A72379)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173477)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2053:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The fierce and cruel battaile fought by the three Kings in Barbarie, nere to the cittie of Maroques, the 25. of Aprill last. 1607</title>
+               </titleStmt>
+               <extent>[2], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed [by Edward Allde?] for Thomas Archer, and are to be sold at his shop in the Popes-head-Pallace, nere the Royall-Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1607.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a title-page woodcut.</note>
+                  <note>Printer's name conjectured by STC.</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Africa, North --  History --  1517-1882 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:173477:1"/>
+            <!-- PDF PAGE 36 -->
+            <p>THE Fierce and cruel Bat<g ref="char:EOLhyphen"/>taile fought by the three Kings in Barbarie, nere to the Cittie of Maroques, the 25. of Aprill laſt. 1607.</p>
+            <figure>
+               <p>
+                  <abbr>IHS</abbr>
+               </p>
+            </figure>
+            <p>
+               <hi>LOND<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>N</hi> Printed for Thomas Archer, and are to be ſold at his Shop in the Popes-head-Pallace, nere the Royall-Exchange. 1607.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:173477:2"/>
+            <!-- PDF PAGE 37 -->
+            <pb facs="tcp:173477:2"/>
+            <!-- PDF PAGE 37 -->
+            <head>A Breefe and true Relation of the notableſt accidents that haue hapned in <hi>Barberie</hi> ſince the eight of Decem<g ref="char:EOLhyphen"/>ber 1606. vntill the 29. of A<g ref="char:EOLhyphen"/>prill. 1607.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">O</seg>N the eight of Decem<g ref="char:EOLhyphen"/>ber 1606. Mouley Bufferes,</hi> King of <hi>Maroques,</hi> and <hi>Mou<g ref="char:EOLhyphen"/>ley Abdela</hi> Son vnto <hi>Mou<g ref="char:EOLhyphen"/>ley Sheck</hi> King of <hi>Fez,</hi> of the age of twentie foure yeares, encou<g ref="char:cmbAbbrStroke">̄</g>tred one another, about ſome two leagues and a halfe to the Southeaſt of the Cittie of <hi>Maroques,</hi> about nine of the clock in the morning.</p>
+            <p>
+               <hi>Mouley Bufferes,</hi> being accompained with ſome twentie fiue or twentie ſixe thouſand men, horſe and foote, together with fifteene fielde peeces, or Faulco<g ref="char:EOLhyphen"/>nets. <hi>Mouley Abdelas</hi> forces were in number a<g ref="char:EOLhyphen"/>bout nine thouſand men &amp; ſeuenteene peeces, hee had moreouer with him <hi>72</hi> Engliſh Soldiers, which hee had got out of the ſhips of Captaine <hi>Ferres,</hi> Captaine
+<pb n="2" facs="tcp:173477:3"/>
+               <!-- PDF PAGE 38 -->
+               <hi>Feyts,</hi> Captaine <hi>Briſt,</hi> Captaine <hi>Watter-drinker.</hi>
+            </p>
+            <p>
+               <hi>Item</hi> thirtie fiue Neitherlanders of Captaine <hi>Iohn Franſcens</hi> companie of <hi>Amſterdam,</hi> together with a leuen Frenchmen, which had beene taken by the aforeſaid Engliſh.</p>
+            <p>All theſe were taken in <hi>Laratche</hi> and <hi>Salee,</hi> by <hi>Mouley Sheck,</hi> who found great ritches in their Ships. Theſe Engliſh, French and Dutchmen, be<g ref="char:EOLhyphen"/>haued themſelues exceeding valiantly in y<hi rend="sup">e</hi> Battaile, as well in fighting as in ſkilfull managing and diſcharging their Ordinance (the rather to obtaine their promiſed libertie) that thoſe of <hi>Maroques</hi> were put to flight, they remaining victors and maiſters of the field. Thoſe of <hi>Maroques</hi> loſt about ſome fiue hundred men, for the moſte of them were adicted and inclyned to the partie of <hi>Mouley Abdela</hi> and there<g ref="char:EOLhyphen"/>fore they would not fight.</p>
+            <p>This done, <hi>Mouley Bufferes</hi> fled into the Citty, where taking ſome treaſure, and certaine Women out of his Pallace, left the Cittie and fled vp to<g ref="char:EOLhyphen"/>wards the Mountaines, but before hee could reach them, hee was met and aſſaulted by certaine Re<g ref="char:EOLhyphen"/>belled <hi>Alarbes</hi> or Peaſants, who not onely robbed and depriued him of all his money and wealth, but alſo ſtripped his Women ſtarke naked, and ſo let them paſſe.</p>
+            <p>Thus according to the euerchanging courſe of this incertaine world, he was (almoſte in an inſtant) ſeene changed from a mightie and great Emperor to a miſerable man, and in this eſtate dooth he yet con<g ref="char:EOLhyphen"/>tinue in the mountaines.</p>
+            <p>The ſame day <hi>Mouley Adlela</hi> would not ſtirre from the place where hee had got the victorie, but re<g ref="char:EOLhyphen"/>mained
+<pb n="3" facs="tcp:173477:3"/>
+               <!-- PDF PAGE 38 -->there all that day.</p>
+            <p>The next day, being the ninth of December, he ſet forwards for the Cittie of <hi>Maroques,</hi> pitching his Tentes before the Gates, incamping himſelfe on the Eaſt ſide of the Cittie.</p>
+            <p>The tenth of the ſame month in the morning, this victorious King entred the Cittie, and lodged him<g ref="char:EOLhyphen"/>ſelfe in the Kings Pallace, where hee continued vn<g ref="char:EOLhyphen"/>till the twentie three of Februarie <hi>1607.</hi> During all which time his people committed manye wilfull ryots &amp; Inſolences, boaſting that they wonne and ouercome the Cittie by ſtrength and force of Armes, whereat ſo much the rather, becauſe the inhabitants of Maroques doe accou<g ref="char:cmbAbbrStroke">̄</g>t thoſe of <hi>Fees</hi> but as Iewes, whereat they were greatly greeued.</p>
+            <p>In the meane time that thoſe of <hi>Fees</hi> did domi<g ref="char:EOLhyphen"/>nere thus in <hi>Maroques,</hi> robbing and Ryfling manie houſes of the <hi>Alkeydes</hi> or Noblemen, enritching themſelues by y<hi rend="sup">e</hi> ſpoiles therof, for they got great boo<g ref="char:EOLhyphen"/>ties, eſpeciallye out of the houſe of <hi>Alkeydes, Azus,</hi> who for his ſafetie fled vp to y<hi rend="sup">e</hi> mou<g ref="char:cmbAbbrStroke">̄</g>taines to a Caſt<g ref="char:EOLhyphen"/>le of his, but hee was purſued, &amp; his houſe ſacked, &amp; they brought out of the ſame <hi>12</hi> thouſand Gownes, and Cloakes of cleath of Gold, ſilk and other ſtuffs, with fiue of ſixe hundreth ales of Roane-cloath, a<g ref="char:EOLhyphen"/>mounting to an infinit valew, beſides his Iewels, moneye and coſtlye Houſholdſtuffe: running from thence to the houſe of <hi>Alkey de Hamdt bemmaiſor,</hi> whereof likewiſe they tooke great ſtore of ritches, to<g ref="char:EOLhyphen"/>gether with manye ſuch like houſen, which they ſac<g ref="char:EOLhyphen"/>ked, robbed, ryfled &amp; ſpoyled, which for breuitie ſake I omit to ſpecifie.</p>
+            <p>
+               <hi>Mouley Abdela</hi> cauſed nine <hi>Alkeydens</hi> to be be<g ref="char:EOLhyphen"/>headed,
+<pb n="4" facs="tcp:173477:4"/>
+               <!-- PDF PAGE 39 -->Amongſt the which was <hi>Baſha Zondier,</hi> generall of <hi>Mouley Bufferes:</hi> all which heads he ſent to <hi>Fez</hi> to his Father, where they were ſet vppon ſtakes.</p>
+            <p>This vnexpected cruelty and miſdemeanor of the <hi>Fezians,</hi> made manye of the people to forſake them, and fled vnto <hi>Mouley Zidan,</hi> vncle vnto the afor<g ref="char:EOLhyphen"/>named <hi>Mouley Abdela,</hi> who watching for his good fortune, had placed himſelfe in a place halfe way be<g ref="char:EOLhyphen"/>tweene <hi>Fez</hi> and <hi>Maroques,</hi> but by meanes of this oportunitie, and vpon certaine intelligence had from thoſe of <hi>Maroques,</hi> hee remoued his Campe towards the Cittie, And on the twentie two of Februarie, he pitched the ſame within two leagues thereof.</p>
+            <p>The ſame day being Thurſday, and Market day, the Towneſ-men made a ſubtill enterpriſe on the Northweſt, and North ſide of the Cittie, about three of the clocke in the morning, breaking vpon the houſe of the <hi>Alkeyde Azus,</hi> where they murthered a great <hi>Alkeyde,</hi> with his two Sonnes that were lodged there, and ſent their heads of <hi>Mouley Zidan.</hi>
+            </p>
+            <p>From thence the ſtreame of their furie droue them forwards to the houſe of the <hi>Hamdtbemmaiſor,</hi> where the generall of the campe was lodged, inten<g ref="char:EOLhyphen"/>ding to haue vſed him in the like ſort, but hee was accompayned with fiftie or ſixtie Soldiers of <hi>Titnan</hi> who defended themſelues verie valiantly vntill the day break, then was hee reſcued by the <hi>Adaloſen,</hi> who (not without great daunger) brought him through the cittie into the campe.</p>
+            <p>The ſame night they releaſed the priſoners, which in number were about two thouſand, the which ran crying about the cittie <hi>Viue Mouley Ziden,</hi> which
+<pb n="5" facs="tcp:173477:4"/>
+               <!-- PDF PAGE 39 -->cauſed a greate commotion, yet all this while <hi>Mouley Abdela</hi> was in the cittie: During this Tumult in the Cittie, the Cittizens together with ſome of <hi>Mouley Zidans</hi> Souldiers, which they had let in that ſame night through a ſecret gate, made a ſalley on the North ſide vppon the Regiment of <hi>Zalee,</hi> where they tooke foure pee<g ref="char:EOLhyphen"/>ces of Ordinance, and would alſo haue ſuppri<g ref="char:EOLhyphen"/>ſed the Campe of <hi>Mouley Abdela,</hi> where ſtoode thirteeene peeces more, and might very wel haue done it, for there was but ſmall reſiſtance of men, and began alreadie to giue backe and retyre (all which wee perfectly ſaw from our houſe) but by the comming of the King <hi>Mouley Abdela,</hi> who preſently iſſued out of the Cittie in their behalfe, with two thouſand men or there about, together with certaine Engliſh and Netherlanders, they recouered their foure peeces againe, droue the e<g ref="char:EOLhyphen"/>nemie back to the place from whence they came, holding them in a continuall ſkirmiſh, vntil thrée of the clocke after noone. There were ſlaine on either ſide about three or foure hundred men.</p>
+            <p>This enterpriſe was moſt ſubtlely plotted, and it wanted but verie little but thoſe of <hi>Fees</hi> had beene beaten and diſcomfited.</p>
+            <p>The fiue and twentie day, <hi>Mouley Abdela</hi> with all his power went to the South &amp; North<g ref="char:EOLhyphen"/>ſides of the Cittie, for <hi>Mouly Zidan</hi> was come to the North ſide thereof vppon the foure and twentieth day, towards which place <hi>Mouly Ab<g ref="char:EOLhyphen"/>dela</hi> cauſed to be ſhot from certaine Turrets &amp; Gates of the Kings houſe, where the Ordenance
+<pb n="6" facs="tcp:173477:5"/>
+               <!-- PDF PAGE 40 -->ſtoode: alſo in the Cittie he ſet two thouſand ſoul<g ref="char:EOLhyphen"/>diers to keepe the Pallace againſt the Cittie, and himſelfe with the reſt of his forces, marched without alongſt the cittie walles, when com<g ref="char:EOLhyphen"/>ming halfe way, they met each other. Thoſe of <hi>Fees,</hi> charged them with ten or twelue peeces of Ordenance, ſo that they returned backe towards the North-ſide againe, where <hi>Mouley Zidan</hi> lay with his maine armie.</p>
+            <p>The <hi>Fezians</hi> thinking that they had alreadie got the victorie, followed them cloſe euen to their campe, drawing their Ordenance after them.</p>
+            <p>Their way lay betweene two high walles, and the ſame ſo narrowe, that they could drawe but one peece after another, the which <hi>Mouley Zi<g ref="char:EOLhyphen"/>dan</hi> wellknowing, encouraged his men, ſhewing them the inconuenience wherein their enemyes had brought themſelues into, by reaſon of the na<g ref="char:EOLhyphen"/>rowe paſſage, where by they were barred from the vſe of their ſhot, which could not hurt them, he charged theſe of <hi>Fees</hi> with foure peeces, ouer running their footemen with his Horſe, for they had no means to vſe their Ordinance, by reaſon of their owne men, ſo that by their owne diſorder they loſt the battaile.</p>
+            <p>The Towneſmen on the other ſide, ſlew them with ſtones from the Cittie walles, and iſſuing foorth, fell on the taile of them, killing all what came to their handes, ſo that there were ſlaine a<g ref="char:EOLhyphen"/>bout fiue or ſixe thouſand men, moſte of them all hewed to peeces and ſlaine by the Sword or ſa<g ref="char:EOLhyphen"/>ble.</p>
+            <p>
+               <pb n="7" facs="tcp:173477:5"/>
+               <!-- PDF PAGE 40 -->
+The reſt which were (neere about one thouſand,) were for the moſte part all ſlaine the two next daies following, in ſuch ſorte, that of all this greate Armie, about ſeauen or eight thouſand men were ſlaine, ſcarce two hun<g ref="char:EOLhyphen"/>dred eſcaped: the like ſlaughter was neuer tofore ſeene nor heard of in <hi>Barbarie.</hi> And in the ſpace of a leuen weekes we ſawe thrée ſeuerall Kinges raigning in <hi>Maroques.</hi>
+            </p>
+            <p>The King <hi>Mouley Abdela,</hi> with ſome of his Horſemen eſcaped, and is with his Father at <hi>Fees,</hi> where ſome report he ſtrengthneth himſelfe againe: he hath lately taken three or foure ſhips, in <hi>Larathe,</hi> whereof is reported, the one to bee Captaine <hi>Warrye</hi> a Pyrate, who hath kept within the Streights certaine yeares, with thir<g ref="char:EOLhyphen"/>tie &amp; two braſſe Peeces, the other are Netherlan<g ref="char:EOLhyphen"/>ders, but this report is not altogether ſure.</p>
+            <p>But as for the King of <hi>Fees,</hi> it is held for cer<g ref="char:EOLhyphen"/>taine, that hee will come heather againe. For the common people which ſerued <hi>Mouley Zidan</hi> and holpe him to winne the Cittie of <hi>Maroques,</hi> beginne to fall from him, and to be his contraries, for that he neither giues them any payment or o<g ref="char:EOLhyphen"/>ther ſatiſfaction.</p>
+            <p>And whereas they thought, that in making him King the country would be in peace and qui<g ref="char:EOLhyphen"/>etneſſe, and the other King be conſtraind to flie, either into Spaine, or Italy. This helde for a certaine truth, that he (to wit the other King) holdeth correſpondence with the king of Spaine, of whom he receiues great aſſiſtance of Monies,
+<pb n="8" facs="tcp:173477:6"/>
+               <!-- PDF PAGE 41 -->what the euent wil be, the time will ſhew.</p>
+            <p>This King that now reigneth, is a verie ſe<g ref="char:EOLhyphen"/>uere man: yet hee adminiſtreth good iuſtice in his Countrey, and is generally feared of all men. He impriſoneth and fortureth many Noble men of the lande to get their wealth. Alſo he cauſeth many to be beheaded, inſomuch that it is great<g ref="char:EOLhyphen"/>ly to be feared that moſt of the chiefeſt of <hi>Maro<g ref="char:EOLhyphen"/>ques</hi> will all by little and little be made away.</p>
+            <p>The naturall condition of this people is, eue<g ref="char:EOLhyphen"/>rie day to deſire a newe King: for they are not true and faithfull to their Kings, ſo that by all likelihoodes our warres here are not yet done, but (as it were) doe but begin, by reaſon of this great bloud-ſhed which happened. Whereby a great rage and enmitie is growne amongeſt the people, and hath cauſed a great hatred one againſt the other.</p>
+            <p>Beſides, the Countrey is ſpoyled, and the dearth increaſeth, for a ſack of corne is woorth heere at this inſtant in <hi>Maroques</hi> three pounds ſtarling, and vpwardes, and yet none to bee got for money. All other neceſſaries are after the rate extreame deare, for many perſons die of meere hunger.</p>
+            <p>In the former battaile were ſlaine fiue and fortie Engliſh men, amongſt the which were cap<g ref="char:EOLhyphen"/>taine <hi>Ferres,</hi> and captaine <hi>Feyts.</hi> Item eightéene of our Netherlanders, ten Frenchmen, and fiue and thirtie Spaniſh ſlaues. And haue vſed ſuch tyrannie ouer them, by reaſon that they did them much hurt with their ſhooting, that they
+<pb n="9" facs="tcp:173477:6"/>
+               <!-- PDF PAGE 41 -->would not ſuffer them to be buried, but were ea<g ref="char:EOLhyphen"/>ten by the Dogges. Such as are yet liuing are maintained by y<hi rend="sup">e</hi> charitie of good friends, for there is nothing to be got of the King.</p>
+            <p>Thus haue you heard all what hath paſſed in theſe partes, vntill the <hi>29.</hi> of Aprill <hi>1607.</hi> what elſe from time to time ſhall occurre, you ſhall with all fit oportunitie at his due time be partaker thereof, farewell.</p>
+            <pb facs="tcp:173477:7"/>
+            <!-- PDF PAGE 42 -->
+            <pb facs="tcp:173477:7"/>
+            <!-- PDF PAGE 42 -->
+         </div>
+      </body>
+   </text>
+</TEI>
